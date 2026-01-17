@@ -1,2 +1,16 @@
-# Skin-Disease-Detection-App
-A Flutter-based Skin Disease Detection App that allows users to capture or upload skin images and identify possible skin diseases using AI. The app provides instant predictions, confidence levels, basic disease information, and precautions, helping users with early awareness and timely medical consultation.
+# skin25
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
